@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-cmd9iqy4"",
-  ""goal"": ""alerts router for routing"",
-  ""language"": ""python"",
-  ""template"": ""python-etl""
+    "name":  "specproj-cmd9iqy4",
+    "goal":  "alerts router for routing",
+    "language":  "python",
+    "template":  "python-etl"
 }
